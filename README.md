@@ -1,9 +1,10 @@
 # Dojo_ML
 
 
-Primeira alteracão
-Segunda alteração
-Terceira alteração
-asd
-tfoskfsak
-kfjskfnskfskf
+## Cronograma
+    * Semana 1: [test](https://scikit-learn.org/stable/modules/linear_model.html#ordinary-least-squares)
+
+
+## Ritual 
+ 
+Terminar ritual com planejamento da próxima semana 
